@@ -1,12 +1,12 @@
 <?php
 
-namespace Visiarch\AtsrServiceTrait;
+namespace Visiarch\ATSRServiceTrait;
 
 use Illuminate\Support\ServiceProvider;
 use Visiarch\ActionServiceTrait\ActionServiceProvider;
-use Visiarch\RepositoryServiceTrait\RepositoryServiceProvider;
-use Visiarch\ServiceServiceTrait\ServiceServiceProvider;
 use Visiarch\TraitServiceTrait\TraitServiceProvider;
+use Visiarch\ServiceServiceTrait\ServiceServiceProvider;
+use Visiarch\RepositoryServiceTrait\RepositoryServiceProvider;
 
 /**
  * Service provider for the ATSR package.

@@ -1,13 +1,13 @@
-![laravel ATSR](https://github.com/visiarch/laravel-repository/blob/main/images/laravel-repository-banner.png)
+![laravel ATSR](https://github.com/visiarch/laravel-action-trait-service-repository/blob/main/images/laravel-atsr-banner.png)
 
 # laravel-action-trait-service-repository
 
-[![Latest Stable Version](http://poser.pugx.org/visiarch/laravel-repository/v)](https://packagist.org/packages/visiarch/laravel-repository)
-[![License](http://poser.pugx.org/visiarch/laravel-repository/license)](https://packagist.org/packages/visiarch/laravel-repository)
+[![Latest Stable Version](http://poser.pugx.org/visiarch/laravel-action-trait-service-repository/v)](https://packagist.org/packages/visiarch/laravel-action-trait-service-repository)
+[![License](http://poser.pugx.org/visiarch/laravel-action-trait-service-repository/license)](https://packagist.org/packages/visiarch/laravel-action-trait-service-repository)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bagussuandana)
 
-> A Simple Package to create repositories, using artisan commands in laravel.
+> A Simple Package to create action, trait, service, & repository, using artisan commands in laravel.
 
 # Install
 
