@@ -1,0 +1,249 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "be9c29fced2feacf68756c7841e2e7a0",
+    "packages": [
+        {
+            "name": "visiarch/laravel-action",
+            "version": "1.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/visiarch/laravel-action.git",
+                "reference": "c8410c88552640fca412ea66ce66f0539a4ca323"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/visiarch/laravel-action/zipball/c8410c88552640fca412ea66ce66f0539a4ca323",
+                "reference": "c8410c88552640fca412ea66ce66f0539a4ca323",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Visiarch\\ActionServiceTrait\\ActionServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Visiarch\\ActionServiceTrait\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gusti Bagus Suandana",
+                    "email": "visiarch@gmail.com"
+                }
+            ],
+            "description": "A simple Laravel package to create actions, using artisan commands",
+            "homepage": "https://github.com/visiarch/laravel-action",
+            "keywords": [
+                "action",
+                "command",
+                "generator",
+                "github",
+                "laravel",
+                "laravel 10",
+                "laravel 11",
+                "laravel 9",
+                "open source",
+                "php"
+            ],
+            "support": {
+                "issues": "https://github.com/visiarch/laravel-action/issues",
+                "source": "https://github.com/visiarch/laravel-action/tree/1.0.3"
+            },
+            "time": "2024-06-28T02:34:18+00:00"
+        },
+        {
+            "name": "visiarch/laravel-repository",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/visiarch/laravel-repository.git",
+                "reference": "2f8e060e3e61290fa6172a1554a0f74c267093e6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/visiarch/laravel-repository/zipball/2f8e060e3e61290fa6172a1554a0f74c267093e6",
+                "reference": "2f8e060e3e61290fa6172a1554a0f74c267093e6",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Visiarch\\RepositoryServiceTrait\\RepositoryServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Visiarch\\RepositoryServiceTrait\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gusti Bagus Suandana",
+                    "email": "visiarch@gmail.com"
+                }
+            ],
+            "description": "A simple Laravel package to create repository, using artisan commands",
+            "homepage": "https://github.com/visiarch/laravel-repository",
+            "keywords": [
+                "command",
+                "generator",
+                "github",
+                "laravel",
+                "laravel 10",
+                "laravel 11",
+                "laravel 9",
+                "open source",
+                "php",
+                "repository"
+            ],
+            "support": {
+                "issues": "https://github.com/visiarch/laravel-repository/issues",
+                "source": "https://github.com/visiarch/laravel-repository/tree/1.0.0"
+            },
+            "time": "2024-06-29T05:40:55+00:00"
+        },
+        {
+            "name": "visiarch/laravel-service",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/visiarch/laravel-service.git",
+                "reference": "6ff6584d32068e75cb0eb722b8b662870cb222ad"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/visiarch/laravel-service/zipball/6ff6584d32068e75cb0eb722b8b662870cb222ad",
+                "reference": "6ff6584d32068e75cb0eb722b8b662870cb222ad",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Visiarch\\ServiceServiceTrait\\ServiceServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Visiarch\\ServiceServiceTrait\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gusti Bagus Suandana",
+                    "email": "visiarch@gmail.com"
+                }
+            ],
+            "description": "A simple Laravel package to create service, using artisan commands",
+            "homepage": "https://github.com/visiarch/laravel-service",
+            "keywords": [
+                "command",
+                "generator",
+                "github",
+                "laravel",
+                "laravel 10",
+                "laravel 11",
+                "laravel 9",
+                "open source",
+                "php",
+                "service"
+            ],
+            "support": {
+                "issues": "https://github.com/visiarch/laravel-service/issues",
+                "source": "https://github.com/visiarch/laravel-service/tree/1.0.0"
+            },
+            "time": "2024-06-28T09:28:10+00:00"
+        },
+        {
+            "name": "visiarch/laravel-trait",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/visiarch/laravel-trait.git",
+                "reference": "c4574471a8f0c7cc4736d79126945e4b4bc74252"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/visiarch/laravel-trait/zipball/c4574471a8f0c7cc4736d79126945e4b4bc74252",
+                "reference": "c4574471a8f0c7cc4736d79126945e4b4bc74252",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Visiarch\\TraitServiceTrait\\TraitServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Visiarch\\TraitServiceTrait\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gusti Bagus Suandana",
+                    "email": "visiarch@gmail.com"
+                }
+            ],
+            "description": "A simple Laravel package to create traits, using artisan commands",
+            "homepage": "https://github.com/visiarch/laravel-trait",
+            "keywords": [
+                "command",
+                "generator",
+                "github",
+                "laravel",
+                "laravel 10",
+                "laravel 11",
+                "laravel 9",
+                "open source",
+                "php",
+                "trait"
+            ],
+            "support": {
+                "issues": "https://github.com/visiarch/laravel-trait/issues",
+                "source": "https://github.com/visiarch/laravel-trait/tree/1.0.0"
+            },
+            "time": "2024-06-28T04:31:22+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^7.3|^8.0"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
